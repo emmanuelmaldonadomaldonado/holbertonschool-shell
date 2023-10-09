@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find permissions -type d -exec chmod 775 {} \
+chmod 755 11-directories_permissions permissions
