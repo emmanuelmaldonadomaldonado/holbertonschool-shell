@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r 555 hello
+sudo chmod -R 555 /var/hello
